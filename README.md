@@ -39,9 +39,7 @@ This repository houses the documentation and files related to Onto-MS.
 
 ## **Applications Modeled**
 - Kinetic Monte Carlo simulations.
-- Profilometric measurements.
-- OVPD fabrication processes.
-- OLED and OPV devices with constituent materials.
+- Simulation investigation of thermochemical evolution of microstructure and chemical segregation during dendritic solidification in laser beam welding. 
 
 ---
 
@@ -76,7 +74,7 @@ OntoMS is aligned with upper-level ontologies like **EMMO**,**PROV-O**, and **Ba
 
 ## **Contact and Contribution**
 We welcome feedback and contributions!  
-- **Author**:Hafiz Muhammad Noman  
+- **Author**: Hafiz Muhammad Noman  
 - **Contact**: noman@kit.edu
 - **Repository**: https://kit-mms.github.io/Onto-MS.github.io/
 
